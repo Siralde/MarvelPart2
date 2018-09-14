@@ -1,2 +1,1 @@
-# marvel
-Marvel App starting point
+# Marvel Day 2
